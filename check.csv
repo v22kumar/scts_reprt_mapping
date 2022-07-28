@@ -1,0 +1,6 @@
+,3),CHANNEL-3 EXCITATION MONITOR,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,2,3.535Vrms at P2/A30 and P2/C30,J3/A3,2.45,2.55,2.474887,Volts DC,PASS
+0,,,LOWER,UPPER,MEASURED,,,,,,,,,,
+1,SL NO.,INPUT POINT OUTPUT POINT,,,,UNITS,RESULT,,,,,,,,
+2,,,LIMIT,LIMIT,VALUE,,,,,,,,,,
+3,1,0Vrms at P2/A30 and P2/C30 J3/A3,-0.1,0.1,0.000126,Volts DC,PASS,,,,,,,,
+0,,,,,,,,3.0,7.07rms at P2/A30 and P2/C30,J3/A3,4.9,5.1,4.95934,Volts DC,PASS
